@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+  <rect width="100%" height="100%" fill="#000000"/>
+  <g transform="translate(600,210)">
+    <text x="0" y="0" text-anchor="middle" fill="#D4AF37" font-size="96" font-family="Tahoma, Arial, sans-serif">ميراث الملوك</text>
+  </g>
+  <g transform="translate(600,100)">
+    <text x="0" y="0" text-anchor="middle" fill="#D4AF37" font-size="48" font-family="Tahoma, Arial, sans-serif">Mirath Al‑Muluk</text>
+  </g>
+</svg>
